@@ -1,2 +1,2 @@
-# Random
-just learning about git repository 
+# Header 
+just learning about git repository , use # in front to create header 
